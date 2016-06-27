@@ -2,7 +2,7 @@
 I developed this tool as part of my 3rd year project at university. The aim of it is to help manage the problem of program plagiarism by identifying pairs of programs, written in Java, given a set of programs that exhibit an especially high degree of similarity. 
 
 # Quick Start
-Given a set of programs, it produces 3 scores based around the structure of the code and Text-Based Similarity in the program.
+Given a set of programs, it produces 3 scores based around the structure of the code and text-based similarity in the program.
 
 To run an analysis:
 
@@ -14,7 +14,7 @@ To run an analysis:
 # Things to note
 To run from the src code the tool also relies on javaparser which can be downloaded from here: https://github.com/javaparser/javaparser
 
-There are some known bugs in the tool
+A small number of correct Java programs crash the parser
 
 This is not entirely my own work, but I will update this soon with clarification about which bits came from where
 
