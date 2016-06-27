@@ -1,2 +1,2 @@
-# Structural-and-Textual-Programming-Similarity-Detector
+# Similarity Analyser
 *Coming Soon*
