@@ -12,9 +12,7 @@ To run an analysis:
 4. To view the results you can either open the text file, or run SimViewer.jar and then select the open file
 
 # Things to note
-To run from the src code the tool also relies on javaparser which can be downloaded from here: https://github.com/javaparser/javaparser
-
-A small number of correct Java programs crash the parser
+A small number of correct Java programs can crash the parser
 
 This is not entirely my own work, but I will update this soon with clarification about which bits came from where
 
