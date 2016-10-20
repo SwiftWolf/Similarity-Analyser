@@ -1,5 +1,5 @@
 # Similarity Analyser
-I developed this tool as part of my 3rd year project at university. The aim of it is to help manage the problem of program plagiarism by identifying pairs of programs, written in Java, given a set of programs that exhibit an especially high degree of similarity. 
+The aim of this tool is to help manage the problem of program plagiarism by identifying pairs of programs, written in Java, given a set of programs that exhibit an especially high degree of similarity. 
 
 # Quick Start
 Given a set of programs, it produces 3 scores based around the structure of the code and text-based similarity in the program.
